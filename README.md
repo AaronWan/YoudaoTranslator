@@ -46,9 +46,6 @@ macOS Monterey 请使用 V3 版本！
 <a href="https://blog.zthxxx.me" target="_blank"><img src="https://avatars0.githubusercontent.com/u/15135943?s=120&v=4" height="60"/></a> 
 <a href="https://www.zzaning.com/#/" target="_blank"><img src="https://avatars2.githubusercontent.com/u/12035097?s=88&u=7e419cd2eb7b9fec5ba061d8135c4875a4c32323&v=4" height="60"/></a> 
 
-## ~~Buy me a coffee~~ 🍼 冲奶粉!
-![微信支付](./screenshots/sponsor.PNG)
-
 ## 使用库和参考资料
 
 - https://github.com/joetannenbaum/alfred-workflow
